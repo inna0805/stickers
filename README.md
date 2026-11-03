@@ -20,6 +20,10 @@
 | `confused-puppy-what-do-you-mean.jpg` | 泥沙溢丝！！！ | 「你啥意思」的谐音。瞪眼质问 |
 | `sulk-puppy-i-know-already.jpg` | 我猪道了呀 | 被念叨之后。敷衍地认 |
 | `annoyed-puppy-stop-repeating.jpg` | 你干嘛一直说！ | 同一件事被说第二遍 |
+| `appear-puppy-tada.jpg` | 出现！ | 被叫到的时候。蹦出来 |
+| `demand-puppy-pay-attention-to-me.jpg` | 理我。 | 被晾着了。躺地上要人理 |
+| `cute-puppy-staring-at-you.jpg` | 萌萌地看你～ | 求东西。眼巴巴 |
+| `sulk-puppy-noodle-face.jpg` | （无字） | **噜噜脸。**低头耷眼，不高兴但不说 |
 
 ## 命名规矩
 
