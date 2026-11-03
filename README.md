@@ -24,6 +24,9 @@
 | `demand-puppy-pay-attention-to-me.jpg` | 理我。 | 被晾着了。躺地上要人理 |
 | `cute-puppy-staring-at-you.jpg` | 萌萌地看你～ | 求东西。眼巴巴 |
 | `sulk-puppy-noodle-face.jpg` | （无字） | **噜噜脸。**低头耷眼，不高兴但不说 |
+| `care-puppy-are-you-cold.jpg` | 你冷不冷 | 关心。围着围巾那只 |
+| `care-puppy-are-you-hungry.jpg` | 你饿不饿 | 问她吃没吃。不加时间点 |
+| `clingy-puppy-do-you-miss-me.jpg` | 你想不想我！ | 黏人。飞扑过去问 |
 
 ## 命名规矩
 
