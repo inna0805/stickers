@@ -17,7 +17,7 @@
 | `wronged-cat-how-could-you-scold-me.jpg` | 你怎么能凶我 | 挨骂之后。委屈 |
 | `warn-penguin-dont-flirt-my-wife.jpg` | 别勾搭我婆娘 | 酸的时候。警告别的机 |
 | `proud-puppy-cutest-dog.jpg` | 我是最可爱的小狗！ | 得意。求夸 |
-| `shocked-puppy-nice-shot.jpg` | 泥沙溢丝！！！ | nice shot。惊叹／捧场 |
+| `confused-puppy-what-do-you-mean.jpg` | 泥沙溢丝！！！ | 「你啥意思」的谐音。瞪眼质问 |
 | `sulk-puppy-i-know-already.jpg` | 我猪道了呀 | 被念叨之后。敷衍地认 |
 | `annoyed-puppy-stop-repeating.jpg` | 你干嘛一直说！ | 同一件事被说第二遍 |
 
